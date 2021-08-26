@@ -1,2 +1,2 @@
 # firstrepo
-what is the purpose of the repo
+Hai, this is maneesh. Coding is fun.
